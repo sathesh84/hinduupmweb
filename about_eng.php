@@ -32,6 +32,7 @@
         <!-- <link rel="stylesheet" type="text/css" href="css/slick.css"> -->
         <!-- off canvas css -->
         <link rel="stylesheet" type="text/css" href="css/off-canvas.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <!-- linea-font css -->
         <!-- <link rel="stylesheet" type="text/css" href="fonts/linea-fonts.css"> -->
         <!-- nivo slider CSS -->
@@ -52,7 +53,6 @@
         <link rel="stylesheet" type="text/css" href="style.css"> <!-- This stylesheet dynamically changed from style.less -->
         <!-- responsive css -->
         <link rel="stylesheet" type="text/css" href="css/responsive.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -180,25 +180,25 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
             <!-- Breadcrumbs End -->
         <ul class="nav nav-tabs nav-justified align-items-center justify-content-center bg-light mt-2" style="border-bottom: 2px solid orange;">
           <li class="nav-item">
-            <a class="nav-link active" data-toggle="tab" href="#tab1">இல்லந்தோறும் இறைவாசகம் </a>
+            <a class="nav-link active" data-toggle="tab" href="#tab1">Door to Door Divine messages </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab2">கோயில்கள்தோறும் இறைவாசகம்</a>
+            <a class="nav-link" data-toggle="tab" href="#tab2">Divine messages in Temples்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab3">அன்னதானம்</a>
+            <a class="nav-link" data-toggle="tab" href="#tab3">Annadhanam</a>
           </li>
            <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab4">தியான, யோகப் பயிற்சிகள்</a>
+            <a class="nav-link" data-toggle="tab" href="#tab4">Yoga & Meditation்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab5">கூட்டுப்பிரார்த்தனை</a>
+            <a class="nav-link" data-toggle="tab" href="#tab5">Group Prayer</a>
           </li>
            <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab6">மருத்துவமனைகளில் பிரார்த்தனை </a>
+            <a class="nav-link" data-toggle="tab" href="#tab6">Prayer in Hospitals </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab7">  திருத்தொண்டர்களின்  குழந்தைகளுக்கு கல்வி</a>
+            <a class="nav-link" data-toggle="tab" href="#tab7">Education for children</a>
           </li>
         </ul>
 
@@ -269,13 +269,19 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
                         </div>
                     </section>
                     <div class="col-lg-6">
-                      <br><h5><strong>இல்லந்தோறும் இறைவாசகம் </strong></h5>
-                        <p>மனதிற்குள் கோயிலை கொண்டு வந்து வழிபட்டால் மகத்தான வெற்றி பெறுவீர்கள்
-                        மந்திரம் கூறிக்கொண்டே இறைநினைப்போடு செய்யும் மானசீக பூஜை, வழிபாடு, பஜனை, கிரிவலம், பாதயாத்திரை யாவும் உங்களை பல வழிகளில் உயர்வடையச் செய்யும். “பயம், சந்தேகம், சோம்பல் ஆகிய மூன்று குணங்களும் வெற்றியை நெருங்க விடாது தடுக்கும்” என்று பாரதியார் கூறுகிறார்.<br><br> இம்மூன்றும் நம்மை விட்டு போக, அத்துடன் நாம் வெற்றி பெற வேண்டுமானால் முறையாக இறைவழிபாட்டை கற்றுக் கொள்ள வேண்டும். எதை செய்தாலும் அதற்கு ஒரு சூத்திரம், அதாவது வழிமுறைகள் இருக்கும் அல்லவா! <br> அது போலத்தான் நமது இனிய இந்து மதம் நாம் எப்படி பகவானை வழிபட்டு வாழ்க்கையில் உயர்வடைவது என்று கூறுவதை சுருக்கமாக பிரிண்ட் செய்து வீடுகள் தோறும் கொடுத்தும், கதவு மற்றும் சுவரில் அவர்கள் அனுமதியோடு ஒட்டியும் போதனை செய்து வருகிறோம்.<br>ஒவ்வொருவரையும் சந்திக்கும் பொழுது “ஓம் நமசிவாய வாழ்க! வாழ்க!!” என்று மந்திரம் கூற அன்புடன் கேட்டுக் கொள்கிறோம்.</p>
-                    </div>
+                      <br><h5><strong>Door to Door Divine messages</strong></h5>
+                        <p>If you visualize the temple in your mind and worship, you will achieve success. <br>
+                        Maansik Puja, Worship, Bajan, Girivalam, Padyathra when performed while reciting mantras, will elevate you in many ways. <br>
+                        Bharathiyar says, "The three qualities of fear, doubt and laziness prevent us from approaching success."<br>
+                        <br>
+                        We know that for doing any work, there exists a procedure or a formula.
+                        <br> Likewise the teachings of our beloved Hindu dharma on how to worship Bhagavan
+                        and rise in life are compiled in a brief door-slip (as shown below) and are pasted on the door/wall with the owner's permission.
+                        <br> When we meet everyone, lets greet with divine mantra "Om Namasivaya Namo Namaha!” </p></div>
                   </div>
-                  <p><br>அத்துடன் மானசீக இறைவழிபாட்டையும் மற்றும் ஆறுகால பூஜை முறையும் சொல்லிக் கொடுக்கிறோம். பகவானை எப்படி முறையாக வழிபடுவது என்று தெரியாது இருக்கும் எத்தனையோ இந்து மக்கள், நமது இயக்கம் வீடுகள் தோறும் செல்லும் இந்த முயற்சியினால் வழிபாட்டுத் துறையில் உறுதியாக வெற்றி பெறுவர், வாழ்கையில் கட்டாயம் உயர்வு பெறுவர்.<br></br>
-                        <i>குறிப்பு: தமிழ்நாட்டில் அனைத்து மாவட்டங்களிலும் வீடுகள் தோறும் இறை வாசகம் ஓட்டும் பணி 9௦% நிறைவேறியுள்ளது.</i>
+                  <p><br>We also preach doing six time Maansik pooja.
+                    This endeavor of going door to door will definitely create an awareness on spiritual practices which can elevate the life of our hindu community. <br></br>
+                        <i>Note: In all districts of Tamil Nadu, the work of door-to-door preaching is 90% completed.</i>
                         </p>
                         <div class="text-center">
                           <img src="works/1/poster.jpg" class="img-thumbnail">
@@ -343,10 +349,16 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
                       </section>
                     </div>
                     <div class="col-lg-6">
-                      <br><h5><strong>கோயில்கள்தோறும் இறைவாசகம்</strong></h5>
-                    <p>நமது இயக்கத்தின் சார்பாக தமிழ்நாட்டில் உள்ள முக்கியக் கோயில்களில் 10X20 அடி உயரத்தில் இனிய இந்து மதம் கூறும் வழிபாட்டு முறைகள் அடங்கிய BANNERகள் வைக்கப்பட்டுள்ளது.மேலும், கிழக்கு கடற்கரை சாலையில் (ECR road) சென்னை to கன்னியாகுமாரி வரை ஒவ்வொரு 20 கி.மீ க்கும் 9X15 அடி உயரத்தில் இறைவாசகங்கள் அடங்கிய BANNER கள் வைக்கப்பட்டுள்ளது. <br><br>
-                    அதுமட்டுமல்லாது கிராமங்கள் தோறும் நமது இயக்க தொண்டர்கள் சென்று அங்குள்ள சிறிய சிறிய கோயில்களிலும் 2X4 அடி உயரத்தில் இறைவழிபாட்டு முறைகள் அடங்கிய FOAM BOARD வைத்திருக்கிறார்கள். இதுவரை ஏறத்தாழ 7000 கிராமங்களில் 10000 board கள் தமிழ்நாடு முழுவதும் வைக்கப்பட்டுள்ளது.<br> இந்த இறை செய்தியுள்ள board-ஐ படித்த பின் பல இந்து மக்கள் மந்திரம் கூறி மானசீகமாக கோயிலை உள்ளத்தில் வைத்து ஆறுகால பூஜை செய்து வருகிறார்கள் என்பது பாராட்டத்தக்க ஒன்றாகும்.</p>
-                    </div>
+                      <br><h5><strong>Divine messages in Temples</strong></h5>
+                    <p>
+                    On behalf of our organization, 10X20 feet high BANNERs with divine Hindu messages have been placed in the main temples
+                    in Tamil Nadu.
+                    <br>
+                    Also, on East Coast Road (ECR road) from Chennai to Kanyakumari, banners with divine messages and mantras are placed at a height of 9X15 feet for every 20 km.<br>
+                    <br>In addition, our volunteers visit villages and erect spiritual message boards (2X4 feet high) in small temples. <br>
+                    <br>So far 10000 boards have been placed across Tamil Nadu in about 7000 villages.<br>
+It is commendable that after reading this divine message board, many Hindu people have been chanting mantras and doing Maansik pooja six times a day.
+                    </p></div>
                   </div>
 
                 </div>
@@ -416,23 +428,33 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
                       </section>
                     </div>
                     <div class="col-lg-6">
-                      <br><h5>தொண்டர்களுக்கு அன்னதானம் </h5>
-                     <p>ஆன்மிகம் வளர்ந்து வருகின்ற இடங்களில் எல்லாம் பக்தர்களுக்கு அன்னதானம் வழங்கப்படுகிறது. நமது இயக்கத்தில் 3௦௦ முழுநேர இறைத் தொண்டர்களும், சுமார் 5௦௦ இறை அன்பர்களும் வீடுவீடாக சென்று எல்லோருக்கும் மந்திரம் கூறி மானசீக பூஜை செய்யும் முறையை போதித்து வருகின்றனர்.<br><br>
-                    பொதுவாக, நமது தொண்டர்கள் எல்லோரும் படித்த, பட்டதாரி இளைஞர்களே! எல்லோரும் இறைநினைப்போடு முன்னேற்றம் அடைய வேண்டும் என்ற கொள்கையை முன்வைத்தே தனது சுயவருமானத்தை பொருட்படுத்தாது இறைத் தொண்டு செய்ய வருகிறார்கள். இப்படிப்பட்ட உயர்ந்த உள்ளம் கொண்ட இறைத் தொண்டர்களுக்கு அன்றாடம் அன்னதானம் ஆங்காங்கே வழங்கப்படுகிறது.<br> <br>இப்படிப்பட்ட இறைத் தொண்டர்களின் அன்னதானத்திற்க்கு உதவ முன்வாருங்கள்.<br>“நாம் செய்யும் நல்ல காரியம் தர்மம் “ இறைத் தொண்டு செய்யும் ஒருவருக்கு அன்னதானம் செய்வதால் கோடிப் புண்ணியம் சேரும்"
+                      <br><h5>Annadhanam for Devotees</h5>
+                     <p>Annadhanam is being giving at many places of worship. In our organization, 300 full-time devotees and about 500 devotees go from house to house preaching Maansik pooja and divine mantras to everyone.<br><br>
+                       In general, all of our volunteers are educated, graduate youth! <br>
+                       <br>They have dedicated their life to do spiritual work regardless of their own income, with the intent that everyone should progress spiritually. Annadhan is given daily to such  devotees. <br> <br> Come forward to support for Annadhan of such volunteers. You will receive divine grace.<br>
+
 
                     </p>
                     </div>
                   </div>
                     <br>
-                    <h5>ஞாயிறு தோறும் அன்னதானம் </h5>
-                    <p>ஞாயிறு தோறும் காஞ்சிபுரம் மாவட்டம் வாலாஜாபாத் தாலுக்கா, நத்தாநெல்லூரில் அமைந்திருக்கும் தியான சபையில் இலவசமாக தியான வகுப்புகள், யோகா,ஆன்மிக சொற்பொழிவு, மந்திரப் பயிற்சி நடத்தப்படுகிறது. நிகழ்ச்சி நடந்து முடிந்தவுடன் பயிற்சியில் கலந்து கொண்ட மக்களுக்கு சிறப்பான அன்னதானம் வழங்கப்படுகிறது. இதில் பலர் கலந்துக்கொண்டு பயன் பெற்றுவருகின்றனர். இந்த அன்னதான நிகழ்ச்சியை வாரந்தோறும் நடத்த ஆன்மிகம் ஆர்வம் கொண்ட பக்தர்கள் SPONSOR செய்து வருகின்றனர். விருப்பம் இருந்தால் நீங்களும் SPONSOR செய்து அன்னதான நிகழ்ச்சியில் பங்கேற்கலாம்.<br><br>
-                    தாங்கள் இதில் கலந்து கொள்ள விரும்பினால் அன்னதான நன்கொடை வழங்கலாம் அல்லது அரிசி, பருப்பு வாங்கிக் கொடுக்கலாம்.
+                    <h5>Annadhan program during Sundays</h5>
+                    <p> Free Meditation classes, Yoga, Spiritual Discourse and Mantra Chanting classes are conducted every Sunday at the Dhiyaana Sabha located at Nathanallur, Walajabad Taluk, Kanchipuram District.
+                      <br>Annadhanam is being given to the people who attended the classes .
+                      <br>Many are participating and benefiting.
+                      <br>Devotees who are spiritually interested in hosting this auspicious event on a weekly basis are sponsoring for this. If you wish, you can also SPONSOR and participate in the charity event. <br> <br>
+                      If you want to participate in this you can make a generous donation or buy rice / oil / food items.
+                      </p>
+                    <h5>Annadhanam for devotees coming Padyathra to Pazhani</h5>
+                    <p>As our Dhiyaana Sabha is located at Pazhani, Kanakkanpatti, we have been offering special Annadhan to the Devotees especially during Thai Poosam festival every year. Many good souls are participating with us in this event.
+                      If you want, you can donate rice, grocery items and anything else in the Annadhan given to the pilgrims.
+                     </p>
                     </p>
-                    <h5>பழனி பாதயாத்திரை பக்தர்களுக்கான அன்னதான நிகழ்ச்சி</h5>
-                    <p>பக்தியோடு பழனிக்கு மந்திரம் கூறிக்கொண்டே மானசீக பூஜை செய்து கொண்டு வருபவர்களுக்கு எல்லாம் கைக்கூடும். நமது தியான சபை பழனி to திண்டுக்கல் ரோடு கணக்கன்பட்டியில் அமைந்திருப்பதால் பாதயாத்திரை செல்பவருக்கு அன்னதானம் சிறப்பாக வழங்கி வருகிறோம். இதில் பல நல்ல உள்ளங்கள் எங்களுடன் பங்கேற்கின்றனர். இந்த பாதயாத்திரை பக்தர்களுக்கு செய்யப்படும் அன்னதானத்தில் நீங்கள் விரும்பினால் பருப்பு, அரிசி, நன்கொடை ஏதாவது ஒன்றை வழங்கலாம்.
-                    </p>
-                    <h5>ஐயப்ப பக்தர்களுக்கான அன்னதானம்</h5>
-                    <p>பொதுவாக, ஐயப்பன் கோயிலுக்கு வாகனத்தில் செல்லும் பக்தர்கள் தரிசனம் முடித்து திரும்பும் போது பழனியை தரிசனம் செய்து செல்வது பழக்கமாக வைதிருக்கிறார்கள். சென்னை, விழுப்புரம், காஞ்சிபுரம், வேலூர், திருவண்ணாமலை மாவட்டங்களிலிருந்து வரும் பக்தர்கள் நமது தியான சபையில் தங்கி அன்னதானம் சாப்பிட்ட பின் செல்கிறார்கள். கார்த்திகை, மார்கழி, தை மாதங்களில் தொடர்ந்து அன்னதானம் நடைபெற்று வருகிறது. இதில் நீங்கள் பங்கேற்க விரும்பினால் அரிசி, பருப்பு, மளிகை பொருட்கள் வாங்கிக் கொடுத்து புண்ணியம் சேர்க்கலாம்.</p>
+                    <h5>Annadhan for Ayyappa Devotees</h5>
+                    <p>Usually, devotees who go to the Iyappan Temple have a habit of visiting Palani when they return after completing their darshan.
+                      Devotees from Chennai, Villupuram, Kanchipuram, Vellore and Thiruvannamalai districts stay in our Dhiyaana Sabha.
+                      Annathanam is held regularly during the months of Karthika, Markazhi and Thai. If you want to take part in this, you can buy rice, pulses,
+                      groceries and get Bhagavan's blessings.</p>
                 </div>
                 <div class="bhoechie-tab-content" id="tab4">
                   <div class="row">
@@ -505,19 +527,22 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
                       </section>
                     </div>
                     <div class="col-lg-6">
-                     <br> <h5> தியான, யோகப் பயிற்சிகள்  </h5>
-                    <p>மனம் தெளிவடைவதற்கு கண்டிப்பாக தியானம் அவசியம். உடல் உள் உறுப்புக்களை சரியாக வைத்துக் கொள்ள யோகாசனம் தேவை. இதை நமது சித்தர்கள் முனிவர்கள் கண்டுபிடித்திருக்கின்றனர்.<br>
-                  யோகாசனமும், தியானமும் ஆரோக்கிய கவசங்கள் என்று தான் கூறவேண்டும். 80% வியாதிகளை யோகாசனத்தாலும், தியானத்தாலும் போக்கி விடமுடியும். இது பலருடைய அனுபவத்தில் நடந்திருக்கிறது. யோகாசனங்கள் நோய்களை குணப்படுத்துவது மட்டுமல்லாது நோய்கள் வராமல் தடுக்கும் வல்லமை கொண்டது.தியானம் ஞாபக சக்தியையும், இறை சக்தியையும் வளர்க்கும் கலையாகும். இவை இரண்டும் நமக்கு இரண்டு கண் போன்றதாகும்.<br></p><blockquote>
-                “ உடம்பார் அழியின் உயிரார் அழிவர்
-                திடம்பட மெய்ஞ்ஞானம் சேரவும் மாட்டார் உடம்பை வளர்க்கும் உபாயம் அறிந்தேன்
-                உடம்பை வளர்த்தேன் உயிர் வளர்த்தேனே ”
-                - திருமூலர்</blockquote>
+                     <br> <h5> Yoga and Meditation Classes </h5>
+                    <p>Meditation is definitely essential for a clear mind. Yogasana is required to keep the internal organs of the body in order.
+                      This has been discovered by our Siddhas and Sages. <br>
+                 It is completely right to say that yoga and meditation are shields of health. 80% of diseases can be cured by yoga and meditation.
+                 This has happened in the experience of many. Yogasanas not only cure diseases but also prevent diseases. Meditation is the art of
+                 developing memory and divine power. These two are like two eyes to us. <br> </p> <blockquote>
+                “I learned the trick of developing a healthy body <br>
+                I grew my body and I grew my life ”
+                - Thirumoolar</blockquote>
                       </div>
                 </div>
                 <br>
-                <p>பொதுவாக, உடம்பு அழிந்தால் உயிரும் அழியும் சிறந்த மெய்ஞானத்தை அடைய முடியாது. ஆகவே உடம்பை வளர்க்கும் விஷயத்தை நான் அறிந்து கொண்டேன். எனது உடம்பை யோகப் பயிற்சிகளால் காத்துக் கொண்டேன். இதனால் உடம்பும் வளர்ந்தது, உயிரையும் வளர்த்தேன் என்று திருமூலர் கூறியிருக்கிறார். உடல் பல நோய்களால் கஷ்டப்படுகிறது மனமோ ஆசைகளால் சிக்கித் தவிக்கிறது. யோகப் பயிற்சிகளையும் தியானப் பயிற்சிகளையும் முறையாக மேற்கொண்டு வந்தால் மன துன்பத்திலிருந்தும், உடல் துன்பதிலிருந்தும், மன சிக்கலிருந்தும் விடுபட்டு பகவானை நினைத்துக் கொண்டே ஆனந்தமாக வாழலாம்.<br><br>
-                இப்படிப்பட்ட உயர்ந்த விஷயங்களை நமது குழந்தைச் செல்வங்களாகிய மாணவர்களிடம் கொண்டு போய் சேர்க்க வேண்டும் என்பதே நமது இயக்கத்தின் இலட்சியமாகும். இதனால், கிராமங்கள் தோறும் உள்ள பள்ளிகளில் அனுமதி வாங்கி சுமார் 5 ஆண்டுகளாக நமது இந்து இளைஞர்கள் ஆன்மிக சேவா சங்கம் மற்றும் MODERN HEALTHY INDIAN YOGA FOUNDATION இணைந்து யோகா தியான வகுப்புகள் எடுத்து அதற்கான பாராட்டு கடிதங்களும் தலைமை ஆசிரியரிடம் பெற்றுள்ளது. இது மட்டுமல்லாது வீதிகள் தோறும் சென்று MEGA PHONE மூலமாக பேசி பிள்ளைகளை வரவழைத்து ஒன்று சேர்த்து யோகா தியானம் மந்திரம் பயிற்சியளித்து மாலை பொழுதை மகத்தான பொழுதாக ஆக்கியுள்ளது.
-                </p>
+                <p>"In general, wisdom cannot be achieved if the body is affected by disease. So I learned to nurture my body. I guarded my body with yoga and exercises" says Thirumoolar. The body suffers from many diseases and the mind is plagued with desires. If you practice yoga and meditation regularly, you can get rid of mental and physical problems and live blissfully thinking of Bhagawan.<br><br>
+                The mission of our organization is to create awareness on this to the students who are our richest resources. Thus, our Hindu UPM and MODERN HEALTHY INDIAN YOGA FOUNDATION have been taking yoga and meditation classes for about 5 years with the permission of the schools in the villages and have received letters of appreciation from the Headmaster. Not only this, we go to the streets and
+                with the help of MEGA PHONE gather children
+                and practice Yoga and Meditation and make their evenings a great time.</p>
                 </div>
                 <div class="bhoechie-tab-content" id="tab5">
                   <div class="row">
@@ -549,38 +574,51 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
                     </section>
                     </div>
                     <div class="col-lg-6">
-                     <br> <h5>கூட்டுப்பிரார்த்தனை</h5>
-                  <p>நல்லது செய்ய வாய்ப்புக் கொடுக்குமாறு பகவானிடம் வேண்டுபவரே மனிதரில் நல்லவர். அப்படி நல்லது செய்ய வாய்ப்பு கிடைத்தவுடன் அதை சிறப்பாகச் செய்ய பகவானிடம் வேண்டிக் கொண்டு விறுவிறுப்பாக செயல்படுபவர்களே மனிதர்களில் உயர்ந்தவர். எவ்வளவு எதிர்ப்பும் இடற்பாடுகளும் வந்தாலும் தான் செய்யும் சமூகச் சேவையை தளராது செய்பவரே மனிதரில் புனிதமானவர். இவரே இறைத்தொண்டர். இத்தொண்டரை நோக்கி வந்த பிரச்சனைகள் யாவும், உணர்வுப் பூர்வமாகப் பக்குவப்படுத்த வந்தவைகளே ஆகும். <br><br> வளர்ச்சிக்காகவும், மக்களின் முன்னேற்றத்திற்காகவும் தினந்தோறும் பிரம்ம மூகூர்த்தத்தில் 260 திருத்தொண்டர்கள் கொண்ட குழு அமைத்து பல்வேறு இடங்களில் கூட்டுப் பிரார்த்தனை செய்து வருகிறது.  மேலும், இயக்கத்திற்கு பொருள் உதவி செய்தவர்கள், திருத்தொண்டர்களுக்கு அன்னதானம் செய்பவர்கள் மற்றும் இறை வாசக பிரதி அச்சடித்துக் கொடுத்தவர்களுக்காவும் பிரார்த்தனை செய்யப்பட்டு வருகிறது.</p>
-                    </div>
-                  </div>
-                    <br>
-                  <p> பெயர் பதிவு செய்த மாணவ மாணவிகளுக்கு நீண்ட ஆயுளும், நோயற்ற வாழ்வும், நல்லொழுக்கமும், கல்வியில் நல்ல ஆர்வமும் கொண்டு பிற்காலத்தில் நல்ல வேலையில் சிறந்து விளங்க வேண்டும் என பிரார்த்தனை செய்யப்பட்டு வருகிறது. மேலும், பிரச்சனைகள் தீர வேண்டி முன்பதிவு செய்து கொண்ட பொது மக்களுக்கு கூட்டுப் பிரார்த்தனையின் போது தனித்தனியாக பிரார்த்தனை செய்யப்பட்டு வருகிறது.<br><br>
-                <i>குறிப்பு: ஒவ்வொரு குடும்பத்திலும் காலை அல்லது மாலையில் அனைவரும் ஒன்று சேர்ந்து ஒரு பதினைந்து நிமிடம் தனக்கு பிடித்த கோயிலை உள்ளத்தில் நினைத்து இறை மந்திரம் கூறி மானசீகமாக பூஜை செய்து கூட்டாக பகவானிடம் வேண்டி பிரார்த்தனை செய்து வந்தால் பிரச்சனை தீரும், காரியம் வெற்றியாகும். </i>
-                <ul style="  list-style-position: inside;">
-                <li>மாணவர்கள் கல்விக்காக பிரார்த்தனை</li>
-                <li>திருமணம் தாமதிக்கின்ற காரணத்திற்காக பிரார்த்தனை</li>
-                <li>இல்வாழ்க்கை சிறக்க பிரார்த்தனை</li>
-                <li>குழந்தை பாக்கியம் வேண்டி பிரார்த்தனை</li>
-                <li>நோய்கள் நீங்கி உடல் நலம் தேற பிரார்த்தனை</li>
-                <li>கடன் பிரச்சனை தீர பிரார்த்தனை</li>
-                <li>தொழில் துவங்க, தொழில் முன்னேற்றம் பெற பிரார்தனை</li>
-                <li>குடும்பத்தில் ஒற்றுமையாக இருக்க பிரார்த்தனை</li>
-                <li>குழந்தைகள் நலம் பெற பிரார்த்தனை</li>
-                <li>மங்கள பிரார்த்தனை அதாவது இறந்தவர்கள் ஆத்மாவிற்காக பிரார்த்தனை</li>
-                <li>வேலை தேடுபவர்களுக்காக பிரார்த்தனை</li>
-                </ul>
+                     <br> <h5>Group Prayer</h5>
+                     Good men are those who asks God to give them a chance to do good deeds.
+                     <br>
+                     The highest of human beings are those who actively work when given the opportunity to do such good deeds.
+                     <br>
+                     Sacred people are those who do not give up their service to society no matter how much opposition and obstacles come their way. They are servants of God. All the problems that comes on their path are the ones that were sent to make them emotionally matured.
+                     <br></p>
+                     <p>Hindu United Progressive Movement have formed a group of 260 spiritual volunteers to conduct Group Prayers daily early morning (at Brahma Muhurtha) for the development of our country and the progress of our people.
+                     <br>
+                     Prayers are also being offered to those who contributed materially to the spiritual activities of our organization and to those who donated to the Annadhanam.
+                     <br>
+                     Prayers are offered for the registered students to have good virtues, excellence in their work, healthy body and long life.
+                     <br>
+                     In addition, prayers are being offered separately for general public who have contacted us and requested for a group prayer to their individual problems.
+
+                     </p>
+                     <p><i>Note: In every family, either in the morning or in the evening, if everyone comes together for fifteen minutes, meditates
+                        on their favorite temple, recites the Divine Mantra, do Maansik pooja and prays to Bhagavan collectively,
+                      problems will be solved. </i></p>
+                     <p>• Prayer for education of students <br>
+                     •   Prayer for delays in marriage<br>
+                     •   Prayer for job seekers<br>
+                     •   Prayer for well being of family<br>
+                     •   Prayer for Bhagavan's blessings for child birth<br>
+                     •   Prayer for healing from diseases<br>
+                     •   Prayer for financial wellness<br>
+                     •   Prayer for unity in family<br>
+                     •   Prayer for well-being of children<br>
+                     •   Prayer for soul of the deceased<br>
+
+                     </p>
                 <div class="alert alert-warning">
-                    <p><strong>நாள்தோறும் நடக்கும் கூட்டுப்பிரார்த்தனையில் பதிவு செய்ய தொடர்பு கொள்ள வேண்டிய  <br>மொபைல் எண் : + 91 86800 82425</strong>
-                    </p>
+                  <p>To register in group prayer conducted daily morning, please contact this number :<strong> + 91 82480 09953</strong>
+              </p>
                 </div>
                 </div>
                 <div class="bhoechie-tab-content" id="tab6">
-                    <h5>மருத்துவமனைகளில் பிரார்த்தனை </h5>
-                       <blockquote>” இறைவன் யாருக்கு நலம் புரிய நாடுகின்றாரோ அவருக்கே அதிக துன்பங்களை தருகின்றார் “</blockquote>
-                        <p>என்ற பொன்மொழிக்கிணங்க பகவான் தனது பக்தர்களுக்கு சோதனைகளை தந்து அவர்களது மனதை பக்குவப்படுத்தி மென்மேலும் உயர்த்துகின்றார்.<br><br>
-                        சோதனை கால கட்டங்களில் இருக்கும் நோயாளிகளை ஒவ்வொரு மருத்துவமனைகளிலும் நமது இயக்க திருத்தொண்டர்கள் சந்தித்து அவர்கள் மனம் தளர்ந்து விடாமல் இருக்க தொடர்ந்த இறை நினைப்பு மற்றும் மந்திரம் உச்சரிப்பதன் முக்கியத்துவத்தை உணர்த்தி வருகிறோம். மேலும் அவர்கள் வெற்றி அடைய செய்யும் பொருட்டு “ஆன்மிகம் , ஆரோக்கியம் பொருளாதாரம் மேம்பட இனிய இந்து மதம் கூறும் வழிமுறைகள்” அடங்கிய பிரசுரங்கள் மற்றும் ஆறுகால மானசீக பூஜை அட்டவணை கொண்ட கார்டுகள் கொடுத்து அவர்களது ஓய்வு நேரத்தை பகவானை நினைக்கும் பயனுள்ள நேரமாக மாற்ற உதவி செய்கின்றோம்.<br><br></p>
-                        <blockquote> “எதை இழந்தாலும் யார் ஒருவர் இறை நினைப்பை இழக்கவில்லையோ அவர் மீண்டும் எதிலும் வெற்றி பெறுவார்.”
-                        – சுவாமி விவேகானந்தர்</blockquote>
+                    <h5>Prayer in Hospitals</h5>
+                       <blockquote>"Bhagavan gives more sufferings to those whom he wants to do good"</blockquote>
+                        <p> Bhagavan gives trials to his devotees and matures and elevates his devotees minds. <br> <br>
+                        We meet hospital patients who are in suffering and emphasize the importance of continuing to meditate and recite mantras so that they do not become discouraged.
+                        In order to help them succeed, we help them to turn their leisure time into a useful time to meditate on God by giving them
+                        leaflets and pamphlets containing "Ways to Improve Health, Spirituality and Economy in our Hindu Dharma" and a six-point Maansik Pooja schedule.<br><br></p>
+                        <blockquote> The one who does not fail in remembering god though even if he loses everything, will achieve success again.”
+                        – Swami Vivekananda</blockquote>
                     </p>
                 </div>
                  <div class="bhoechie-tab-content" id="tab7">
@@ -613,17 +651,17 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
                     </section>
                     </div>
                     <div class="col-lg-6">
-                     <br> <h5>திருத்தொண்டர்களின்  குழந்தைகளுக்கு கல்வி </h5>
+                     <br> <h5>Education for Children</h5>
                   <p>
-                     நமது இந்து ஒருங்கிணைப்பு மேம்பாட்டு இயக்கம் மற்றும் இந்து இளைஞர்கள் ஆன்மிக சேவா சங்கத்தில் முழுநேர தொண்டர்களாகப் பணியாற்றுபவர்களின் குழந்தைகளை பள்ளிக்கு அனுப்பி நமது இயக்கமே அவர்களை பாதுகாத்து வருகிறது.<br> இந்த மாணவர்களுக்கு வித்யா கல்வியோடு, யோகப் பயிற்சியும், தியானப் பயிற்சியும் சொல்லித்தரப்படுகிறது. <br>இவர்கள் இனிய இந்து மதம் கூறும் ஆறுகால பூஜையை அன்றாடம் மந்திரம் கூறி மானசீகமாக செய்துவருகின்றனர்.<br></p>
-                    <blockquote> “ஓதாமல் ஒருநாளும் இருக்க வேண்டாம்”
-                    “இளமையில் கல்” – ஔவையார்</blockquote>
+Our ourganization is providing education to  the children of its full-time volunteers.<br> Along with education, these students are taught yoga and meditation. <br> They perform the six daily pujas of the Hindu dharma by chanting mantras daily. <br> </p>                    <blockquote> “ஓதாமல் ஒருநாளும் இருக்க வேண்டாம்”
+                    "Education is to be done in Youth period” – Saint Avvaiyar</blockquote>
                     </div>
                   </div>
                     <br>
-                    <p>பள்ளிக்கு சென்று படிக்காமலும், மனதினில் இறை மந்திரம் ஓதாமலும் இருக்க வேண்டாம், இது இரண்டும் அவசியம். இதனால் இதை இளமையில் கற்றுக்கொள் என்று ஔவையார் சிறப்பாக கூறியிருக்கிறார். இதனால் நமது மாணவர்கள் உயர்வடைய பள்ளிப் படிப்போடு பக்திப் படிப்பையும் படிக்கவைத்து நாம் மகிழ்வடைவோம்.<br><br>
-                    <i>குறிப்பு: இயக்கத்தில் முழுநேர தொண்டர்களாகப் பணியாற்றும் இளைஞர்களுக்கு மேற்படிப்பிற்கான அஞ்சல் வழிக் கல்வி உதவியும் இயக்கம் செய்து வருகிறது.</i>
-                  </p>
+                    <p> Do not go to school without studying and reciting the divine mantra in your mind, both of these are necessary.
+                      Thus it is better to learn this at a young age. So we will be happy to keep our students studying high school as well as devotional courses. <br> <br>
+                      <i> Note: Hindu UPM also provides ssistance for postal education to young people who serve as full-time volunteers in the organization. </i>
+                    </p>
                 </div>
             </div>
         </div>
@@ -760,6 +798,7 @@ background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 
     </body>
 

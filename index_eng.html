@@ -23,6 +23,7 @@
         <!-- <link rel="stylesheet" type="text/css" href="css/slick.css"> -->
         <!-- off canvas css -->
         <link rel="stylesheet" type="text/css" href="css/off-canvas.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <!-- linea-font css -->
         <!-- <link rel="stylesheet" type="text/css" href="fonts/linea-fonts.css"> -->
         <!-- nivo slider CSS -->
@@ -103,7 +104,7 @@
                         <div class="col-lg-12 col-sm-12 col-11 col-sm-9">
                             <div class="logo-area text-center">
                                 <a href="index.html"><img src="images/logo2.gif" alt="logo"></a>
-                                <div class="pull-right lang"><a href="#">ENG</a> || <a href="#">தமிழ் </a></div>
+
                             </div>
                         </div>
                         <div class="col-lg-12 mb-1">
@@ -113,13 +114,26 @@
                                     <ul class="nav-menu text-center">
                                         <li class="current-menu-item"><a class="active" href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
                                         </li>
-                                        <li class=""><a href="about.php"><i class="fa fa-bell" aria-hidden="true"></i>Spiritual Services</a>
+                                        <li class=""><a href="about_eng.php"><i class="fa fa-bell" aria-hidden="true"></i>Spiritual Services</a>
                                         </li>
                                         <li class=" "><a href="devotional.html"><i class="fa fa-music" aria-hidden="true"></i> Devotional Speech</a>
                                         </li>
                                         <li class=""><a href="publication.html"><i class="fa fa-book" aria-hidden="true"></i> Publications</a>
                                         </li>
                                         <li class=""><a href="contact_eng.html"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a>
+                                        </li>
+                                        <li>
+                                          <div class="dropdown">
+                                              <button class="btn btn-secondary dropdown-toggle" style="background-color: #bdd4e7;
+background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                Choose Language
+                                              </button>
+                                              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                                <a class="dropdown-item text-dark" style="margin: auto;width: 50%;padding: 10px;" href="index.html">தமிழ்</a>
+                                                <a class="dropdown-item text-dark" style="margin: auto;width: 50%;padding: 10px;" href="index_eng.html">English</a>
+                                              </div>
+                                            </div>
                                         </li>
                                     </ul>
                                </nav>
@@ -179,19 +193,19 @@
               <!-- The slideshow -->
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="images/slider/doorslip.jpg" alt=" ">
+                  <img src="images/slider/doorslip_eng.jpg" alt=" ">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/slider/temple.jpg" alt="">
+                  <img src="images/slider/temple_eng.jpg" alt="">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/slider/prayer.jpg" alt="">
+                  <img src="images/slider/prayer_eng.jpg" alt="">
                 </div>
                  <div class="carousel-item">
-                  <img src="images/slider/autosticker.jpg" alt="">
+                  <img src="images/slider/autosticker_eng.jpg" alt="">
                 </div>
                  <div class="carousel-item">
-                  <img src="images/slider/annadhanam.jpg" alt="">
+                  <img src="images/slider/annadhanam_eng.jpg" alt="">
                 </div>
 
               </div>
@@ -326,14 +340,14 @@
                                 <div class="history-column">
                                    <img class="class bk-cion" src="images/icon-img/bg-icon.png">
                                     <img class="fnt-icon" src="images/icon-img/4.png">
-                                    <h4><a href="method_2.html">Manasik Pooja, Dhyana </a></h4>
+                                    <h4><a href="method_2_eng.html">Manasik Pooja, Dhyana </a></h4>
                                 </div>
                             </div>
                             <div class="col-md-4 col-lg-4 col-xl-2 col-sm-4 col-6 my-3">
                                 <div class="history-column">
                                    <img class="class bk-cion" src="images/icon-img/bg-icon.png">
                                     <img class="fnt-icon" src="images/icon-img/5.png">
-                                    <h4><a href="method_3.html">&nbsp; Yoga &nbsp;</a></h4>
+                                    <h4><a href="method_3_eng.html">&nbsp; Yoga &nbsp;</a></h4>
                                 </div>
                             </div>
                             <div class="col-md-4 col-lg-4 col-xl-2 col-sm-4 col-6 my-3">
@@ -354,7 +368,7 @@
                                 <div class="history-column">
                                     <img class="class bk-cion" src="images/icon-img/bg-icon.png">
                                     <img class="fnt-icon" src="images/icon-img/8.png">
-                                    <h4><a href="method_4.html">Group Prayer</a></h4>
+                                    <h4><a href="method_4_eng.html">Group Prayer</a></h4>
                                 </div>
                             </div>
 
@@ -725,6 +739,9 @@ function enableMute() {
 
 }
         </script>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </body>
 
 </html>
