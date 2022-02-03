@@ -2,4 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/oan0s2tg1t72/public_html/
-    - /bin/cp -R about.php $DEPLOYPATH
+    #- /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R ./*.html $DEPLOYPATH
+    - /bin/cp -R ./*.php $DEPLOYPATH
